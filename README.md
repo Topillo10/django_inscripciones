@@ -1,0 +1,2 @@
+# django_inscripciones
+django_inscripciones_CAC2023
